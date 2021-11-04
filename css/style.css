@@ -1,0 +1,161 @@
+body{
+text-align: center;
+}
+.frontpic{
+  width: 100%;
+ height: auto;
+ max-width: 100%;
+  display: inline-block;
+}
+.secondpic{
+  width: 150%;
+}
+.text-2{
+  font-size: 70%;
+}
+
+.contact{
+  color: black;
+  background-color: #404040;
+  width: 100%;
+  padding: 50px 0 30px;
+  display: inline-block;
+  position: absolute;
+  left: 0px;
+
+}
+h1{
+font-family: 'Indie Flower', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  width: 65%;
+  margin: 0 auto 0 auto;
+}
+.no1{
+  width: 50%;
+
+
+}
+
+.top-container{
+background-image: url('https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+height: 30rem;
+position: absolute;
+top: 0%;
+left: 0%;
+right: 0%;
+}
+
+.second-container{
+  margin-top: 80px;
+
+}
+
+a{
+  font-family: Averta,sans-serif;
+  margin: auto 10px auto 10px;
+  text-decoration: none;
+  color: grey;
+}
+h2{
+  margin-bottom: 20px;
+  color: black;
+}
+.follow-us{
+  color: white;
+}
+.copyright{
+  color: white;
+}
+.hower:hover{
+  color: white;
+}
+.nameplate{
+      font-family: 'Montserrat', sans-serif;
+      position: relative;
+      top: 15%;
+      color: black;
+
+
+}
+.btn {
+  background: #75b5e0;
+  background-image: -webkit-linear-gradient(top, #75b5e0, #009dff);
+  background-image: -moz-linear-gradient(top, #75b5e0, #009dff);
+  background-image: -ms-linear-gradient(top, #75b5e0, #009dff);
+  background-image: -o-linear-gradient(top, #75b5e0, #009dff);
+  background-image: linear-gradient(to bottom, #75b5e0, #009dff);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #e3e3e3;
+  font-size: 35px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00c7c7;
+  background-image: -webkit-linear-gradient(top, #00c7c7, #19ebfa);
+  background-image: -moz-linear-gradient(top, #00c7c7, #19ebfa);
+  background-image: -ms-linear-gradient(top, #00c7c7, #19ebfa);
+  background-image: -o-linear-gradient(top, #00c7c7, #19ebfa);
+  background-image: linear-gradient(to bottom, #00c7c7, #19ebfa);
+  text-decoration: none;
+
+
+
+}
+.joinus{
+  position: relative;
+  top: 130px;
+}
+.navbar{
+position: absolute;
+top: 0%;
+background-color: #404040;
+width: 100%;
+padding: 10px 10px;
+font-weight: 600;
+
+
+
+}
+.nav{
+
+  color: white;
+
+}
+
+
+hr{
+
+
+  color: grey;
+  width: 10%;
+  border-style: dotted;
+  border-width: 7px;
+  border-top-style: none;
+
+
+}
+.effect:hover{
+  color: #009dff;
+}
+.gif{
+  width: 30%;
+
+}
+.diwali{
+  width: 300px;
+  padding-top: 110px;
+}
+.hans{
+  margin-top: 600px;
+}
+.kali{
+  width: 50%;
+}
